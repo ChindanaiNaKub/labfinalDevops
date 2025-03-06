@@ -18,6 +18,7 @@
    ```
    sudo nano /var/www/html/index.nginx-debian.html
    ```
+   Replace content or add someting 
 
    Save (Ctrl+O, Enter, Ctrl+X), then reload Nginx:
    ```
